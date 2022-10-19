@@ -60,7 +60,7 @@ public class FirebaseHelper {
     }
 
 
-    
+
     public FirebaseAuth getmAuth() {
         return mAuth;
     }
